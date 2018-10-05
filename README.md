@@ -10,3 +10,7 @@
 
 #### Text Editor- A simple Text Editor using Tkinter. Most common features like cut, paste, undo, redo, line number, find function etc is added.
 ![ice_screenshot_20181005-151252](https://user-images.githubusercontent.com/22642254/46527480-2594a580-c8b3-11e8-8ac2-e0dd0219eace.png)
+
+#### A simple Restaurant billing app to create and calculate customer bills and also include a calculator for money calculation.
+
+![ice_screenshot_20181005-151437](https://user-images.githubusercontent.com/22642254/46527920-43aed580-c8b4-11e8-94ec-3a4e78165007.png)
