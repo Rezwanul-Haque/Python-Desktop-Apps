@@ -7,3 +7,6 @@
 
 #### Where to put the pieces can be seen with different color blocks
 ![ice_screenshot_20181005-151059](https://user-images.githubusercontent.com/22642254/46527149-26790780-c8b2-11e8-9996-8d9cdddc31ac.png)
+
+#### Text Editor- A simple Text Editor using Tkinter. Most common features like cut, paste, undo, redo, line number, find function etc is added.
+![ice_screenshot_20181005-151252](https://user-images.githubusercontent.com/22642254/46527480-2594a580-c8b3-11e8-8ac2-e0dd0219eace.png)
